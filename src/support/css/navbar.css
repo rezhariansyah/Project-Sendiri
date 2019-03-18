@@ -1,0 +1,18 @@
+.navbar {
+    z-index: 9999;
+    background-color: black;
+    position: fixed;
+}
+
+/* #menu {
+    color: white;
+    text-decoration: none;
+}  */
+
+.navbar #menu {
+    color: white;
+}
+
+.navbar #menu:hover {
+    color: aqua
+}

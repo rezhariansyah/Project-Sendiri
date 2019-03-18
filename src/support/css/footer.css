@@ -1,0 +1,25 @@
+.footer {
+    position: fixed;
+    background-color: black;
+    height: 80px;
+    width: 100%;
+    bottom: 0px;
+}
+
+.caption {
+    margin-top: 15px;
+    color: white;
+    text-align: center;
+}
+
+.caption a {
+    color: #6DC7C5;
+    width: 40px;
+    padding: 7px;
+    margin-bottom: 10px;
+}
+
+.caption a:hover {
+    color: aqua;
+}
+
